@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206873583049",
+    "project_id": "movielist-abff5",
+    "storage_bucket": "movielist-abff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206873583049:android:4882ce174f965f03775c18",
+        "android_client_info": {
+          "package_name": "com.example.movielist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206873583049-au2bt42meds4nh2c3p9aj97qrfsffu4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoi7sJzbbz6VY-q4lP_wAhGezkDPqhuLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206873583049-au2bt42meds4nh2c3p9aj97qrfsffu4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
